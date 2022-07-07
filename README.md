@@ -1,2 +1,2 @@
-# projectsevenseas
-Headphones focused on modularity and repairability
+# Project Seven Seas
+STL files for the headphones.
