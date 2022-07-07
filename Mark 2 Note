@@ -1,0 +1,28 @@
+The Mark 2 is made and designed with both wired and wireless connection (see their respective sections)
+The manual assembly of the Mark 2 is very complicated. If you only want headphones that has hotswappable drivers, consider building the Mark 1.5 instead. Although deprecated, is siginificantly easier in assembly.
+
+To make a wireless version of the Mark 2, a wired version needs to be built first, as the bluetooth functionality is an add-on feature.
+
+There are several flaws with the headphones that unfortunately can't be fixed due to size constraints and manufacturing avaliability, such as the thin, brittle and stiff headband that will crack, and a similar case with the folding mechanism. 
+
+Wired:
+Materials:
+Driver of your choice <=40mm
+
+
+Wireless
+As a prerequisite, you need to have a wired version of the Mark 2 that is working.
+
+
+Materials you'll need:
+A Bluetooth module that will fit the dimensions of the headphones. (I used a CSR8675 + PCM5102A Module)
+A 3.7V Battery
+A battery charging and protection circuit (I used a USB-C TP4056 board)
+6 wires that will connect the right side to the left side
+A SMD power sliding switch
+
+Optional Materials:
+0.7mm SMD buttons for media control
+1 or 2 microphones depending on if you want 1 on a side or 1 on both
+
+The battery 
