@@ -1,2 +1,3 @@
 # Project Seven Seas
-STL files for the headphones.
+
+STL files and guides for the headphones.
